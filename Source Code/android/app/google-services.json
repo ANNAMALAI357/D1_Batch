@@ -1,1 +1,39 @@
-Provide your firebase google_service.json here
+{
+  "project_info": {
+    "project_number": "5895645471",
+    "project_id": "busapp-7674b",
+    "storage_bucket": "busapp-7674b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5895645471:android:aae08d991772abc95da82a",
+        "android_client_info": {
+          "package_name": "com.salman.bus_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5895645471-irb3oiuoqfp6f1inmdrtcgm3f5k22cou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMOaZylChZIzHcp-i33O-o8OFyMHj5J7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5895645471-irb3oiuoqfp6f1inmdrtcgm3f5k22cou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
